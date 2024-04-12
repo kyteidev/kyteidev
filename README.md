@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @LifeTecLover999
-- 👀 I’m interested in developing different kinds of games and apps. I'm currently developing a private test malware to test against Avast, Malwarebytes and Windows Defender! (I will of course send reports if the AVs didn't detect anything)
-- 🌱 I’m currently learning how to make apps with Python, and games with C#
-- 📫 How to reach me: I will leave an email address on my profile.
+- 👋 Hi, I’m kytei.
+- 👀 I am a Python and C++ dev. I can also code HTML, CSS, a bit of JS, and Java.
+- 🌱 I’m currently working on Penguin Client (Minecraft PVP Client) and lemonide code editor.
+
+"The first step to acceptance is denial" -Me 2023
