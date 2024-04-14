@@ -4,4 +4,4 @@
 
 "The first step to acceptance is denial" -me 2023
 
-[![stats](https://github-readme-stats.vercel.app/api?username=kyteidev)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=kyteidev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
