@@ -3,3 +3,5 @@
 - 🌱 I’m currently working on Penguin Client (Minecraft PVP Client) and lemonide code editor.
 
 "The first step to acceptance is denial" -me 2023
+
+[![stats](https://github-readme-stats.vercel.app/api?username=kyteidev)](https://github.com/anuraghazra/github-readme-stats)
