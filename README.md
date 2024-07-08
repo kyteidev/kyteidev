@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kytei.
-- 👀 I am a Python and C++ dev. I can also code HTML, CSS, a bit of JS, and Java.
+- 👀 I am a web dev, but I also code Rust. I can also code Python, C++, and Java.
 - 🌱 I’m currently working on Penguin Client (Minecraft PVP Client) and flux code editor. [repo](https://github.com/kyteidev/FluxEditor)
 
 "The first step to acceptance is denial" -me 2023
