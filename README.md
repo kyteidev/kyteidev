@@ -5,3 +5,7 @@
 "The first step to acceptance is denial" -me 2023
 
 [![stats](https://github-readme-stats.vercel.app/api?username=kyteidev&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![langs](https://api.githubtrends.io/user/svg/kyteidev/langs?time_range=one_year&group=other&theme=bright_lights)
+
+![contributions](https://api.githubtrends.io/user/svg/kyteidev/repos?time_range=one_year&group=other&theme=bright_lights)
