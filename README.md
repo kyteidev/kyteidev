@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kytei.
-- 👀 I am a web dev, but I also code Rust. I can also code Python, C++, and Java.
+- 👀 I am a software and game dev.
 - 🌱 I’m currently working on Flux code editor, [repo](https://github.com/kyteidev/FluxEditor).
 - 📧 You can contact me here: kyteidev@proton.me
 
