@@ -12,3 +12,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyteidev&theme=merko&layout=compact&langs_count=8" >
 </a>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kyteidev"
+    width="600"
+    height="120"
+  />
+</a>
+  
