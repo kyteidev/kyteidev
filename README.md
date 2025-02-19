@@ -13,12 +13,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyteidev&theme=merko&layout=compact&langs_count=8" >
 </a>
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/kyteidev"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kyteidev&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kyteidev"
+  width="600"
+  height="300"
+/>
 </a>
-  
