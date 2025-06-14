@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kytei.
-- 👀 I am a software and game dev.
-- 🌱 I’m currently working on Flux code editor, [repo](https://github.com/kyteidev/FluxEditor).
+- 👀 I am a software dev.
+- 🌱 I’m currently working on Fluxium code editor, [repo](https://github.com/kyteidev/Fluxium).
 - 📧 You can contact me here: kyteidev@proton.me
 
 "The first step to acceptance is denial" -me 2023
