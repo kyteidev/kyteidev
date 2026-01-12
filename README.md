@@ -6,11 +6,11 @@
 "The first step to acceptance is denial" -me 2023
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyteidev&show_icons=true&theme=merko" />
+<img align="center" src="https://github-readme-stats-zeta-blue-77.vercel.app/api?username=kyteidev&show_icons=true&theme=merko" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyteidev&theme=merko&layout=compact&langs_count=8" >
+<img align="center" src="https://github-readme-stats-zeta-blue-77.vercel.app/api/top-langs/?username=kyteidev&theme=merko&layout=compact&langs_count=8" >
 </a>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kyteidev&utm_content=farm">
