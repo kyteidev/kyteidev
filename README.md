@@ -1,6 +1,7 @@
 Welcome to my profile! I'm kytei, and I am living in Europe.
 
 I’m currently working on Fluxium code editor, [repo](https://github.com/kyteidev/Fluxium).
+
 contact me 👉 kyteidev@proton.me
 
 "The first step to acceptance is denial" -2023
