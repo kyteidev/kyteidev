@@ -1,9 +1,9 @@
-- 👋 Hi, I’m kytei.
-- 👀 I am a software dev.
-- 🌱 I’m currently working on Fluxium code editor, [repo](https://github.com/kyteidev/Fluxium).
-- 📧 You can contact me here: kyteidev@proton.me
+Welcome to my profile! I'm kytei, and I am living in Europe.
 
-"The first step to acceptance is denial" -me 2023
+I’m currently working on Fluxium code editor, [repo](https://github.com/kyteidev/Fluxium).
+contact me 👉 kyteidev@proton.me
+
+"The first step to acceptance is denial" -2023
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats-zeta-blue-77.vercel.app/api?username=kyteidev&show_icons=true&theme=merko" />
