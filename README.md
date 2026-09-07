@@ -9,6 +9,8 @@
 - 💤 Professional procrastinator
 - ✉️ kyteidev@proton.me
 
+🗣️ The first step to acceptance is denial ~2023
+
 ## 🚀 Currently working on
 - [Fluxium](https://github.com/kyteidev/fluxium) - a minimalist lightweight code editor
 
