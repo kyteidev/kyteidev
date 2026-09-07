@@ -1,6 +1,7 @@
 # <img src="cat-vibe.gif" width="30" height="30" /> Hey there!
-
-![Website](https://img.shields.io/badge/website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=kyteidev.github.io) ![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fkytei.bsky.social) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fkytei)
+<a href="https://kyteidev.github.io"><img alt="Static Badge" src="https://img.shields.io/badge/website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://bsky.app/profile/kytei.bsky.social"><img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/kytei"><img alt="Static Badge" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
 
 - 📍 Europe
 - ⌨️ Software and game developer
