@@ -1,23 +1,33 @@
-Welcome to my profile! I'm kytei, and I am living in Europe.
+# <img src="cat-vibe.gif" width="30" height="30" /> Hey there!
 
-I’m currently working on Fluxium code editor, [repo](https://github.com/kyteidev/Fluxium).
+![Website](https://img.shields.io/badge/website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=kyteidev.github.io) ![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fkytei.bsky.social) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fkytei)
 
-contact me 👉 kyteidev@proton.me
+- 📍 Europe
+- ⌨️ Software and game developer
+- 🎮 Gamer
+- 💤 Professional procrastinator
+- ✉️ kyteidev@proton.me
 
-"The first step to acceptance is denial" -2023
+## 🚀 Currently working on
+- [Fluxium](https://github.com/kyteidev/fluxium) - a minimalist lightweight code editor
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=kyteidev&show_icons=true&theme=merko" />
-</a>
+## 📈 Stats and stuff
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kyteidev&rank_icon=github&custom_title=GitHub%20Stats&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=kyteidev&rank_icon=github&custom_title=GitHub%20Stats&include_all_commits=true&theme=tokyonight)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kyteidev&theme=merko&layout=compact&langs_count=8" >
-</a>
+🌐 Languages
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kyteidev&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/kyteidev"
-  width="600"
-  height="300"
-/>
-</a>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+
+🖥️ Software
+
+![Zed](https://img.shields.io/badge/zed-%23084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Godot Engine](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+
+ℹ️ Other info
+
+![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)
+![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-%23DE5833.svg?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=kyteidev&style=flat-square) ![Static Badge](https://img.shields.io/badge/last%20updated-7.9.2026-green?style=flat-square)
